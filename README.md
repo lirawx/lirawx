@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/lirawx/lirawx.svg)](http://hits.dwyl.com/lirawx/lirawx)
+
 <!--
 **lirawx/lirawx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +31,3 @@ Web Engineer in China, passionate about high performance progressive web apps an
 - Email: i#lirawx.cn
 - Twitter: [lira_wx](https://twitter.com/lira_wx)
 - Github: [lirawx](https://github.com/lirawx)
-
